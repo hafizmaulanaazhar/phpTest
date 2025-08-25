@@ -49,6 +49,6 @@ function getUserInput()
     return true;
 }
 
-echo "=== Program A000124 of Sloanes OEIS  ===\n";
+echo "Program A000124 of Sloanes OEIS\n";
 while (getUserInput()) {
 }
